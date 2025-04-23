@@ -34,3 +34,4 @@ A machine learning model to predict commercial real estate prices in New York Ci
 git clone https://github.com/yourusername/nyc-real-estate-predictor.git
 cd nyc-real-estate-predictor
 
+2. Install required packages:
